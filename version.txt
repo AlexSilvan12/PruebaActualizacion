@@ -1,1 +1,2 @@
 1.0.1
+https://github.com/AlexSilvan12/PruebaActualizacion/releases/download/v1.0.1/Instalador_AppPrueba_v1.0.1.exe
