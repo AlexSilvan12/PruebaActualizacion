@@ -1,7 +1,10 @@
 import tkinter as tk
 from funciones import accion_boton
+import actualizador
 
 def main():
+    actualizador.verificar_actualizacion()
+    
     ventana = tk.Tk()
     ventana.title("App de Prueba")
 
